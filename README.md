@@ -60,6 +60,13 @@ The project includes both a **CLI interface** for power users and a **modern web
 - Node.js 16+
 - npm or yarn
 
+## Demo 
+
+
+https://github.com/user-attachments/assets/669f8689-9cae-42ea-aee5-5762ab974728
+
+
+
 ## 🚀 Installation
 
 ### 1. Clone the Repository
